@@ -1,0 +1,10 @@
+200001,Alan Walker,987654321012,Mathematics,1980,20,Long,3.2
+200002,Susan Carter,987654321013,Physics,1975,25,Short,2.8
+200003,Thomas Lee,987654321014,Computer Science,1982,18,Long,3.5
+200004,Nancy Green,987654321015,Biology,1978,22,Short,3.0
+200005,Richard Hall,987654321016,Chemistry,1985,15,Long,3.1
+200006,Karen Young,987654321017,Engineering,1977,24,Short,2.9
+200007,Charles Allen,987654321018,Economics,1981,19,Long,3.3
+200008,Jessica Scott,987654321019,History,1976,23,Short,2.7
+200009,William King,987654321020,Political Science,1983,17,Long,3.4
+200010,Barbara Adams,987654321021,Philosophy,1979,21,Short,2.6
