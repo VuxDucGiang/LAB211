@@ -4,20 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/Person.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/View/Menu.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/View/PersonListView.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/View/DataInput.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/Teacher.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/Controller/StudentManagementSystem.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/View/Menu.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/View/DataInput.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/TeacherList.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/View/StudentListView.java</file>
             <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Controller/PersonManagementSystem.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/View/PersonListView.java</file>
             <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/Student.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/Model/Student.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/Teacher.java</file>
             <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/StudentList.java</file>
-            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/StudentManagementSystem/Model/StudentList.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Model/TeacherList.java</file>
         </group>
     </open-files>
 </project-private>
