@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class StudentList {
+   private Student student;
   private ArrayList<Student> studentLists = new ArrayList<>();
   
   public void loadFromFile(String filename) {
@@ -38,6 +39,22 @@ public class StudentList {
           System.out.println(student);
       }
   }
+ public String getStudentNameByID(String studentID) {
+    for (Student student : studentLists) {
+        if (student.getStudentID().equalsIgnoreCase(studentID)) {
+            return student.getStudentName(); 
+        }
+    }
+    return ""; 
+}
+ public String getStudentIDByName(String studentName) {
+    for (Student student : studentLists) {
+        if (student.getStudentName().equalsIgnoreCase(studentName)) {
+            return student.getStudentID(); 
+        }
+    }
+    return ""; 
+}
   public boolean isStudentIDDulicated(String studentID){
       for(Student student : studentLists){
           if(student.getStudentID().equalsIgnoreCase(studentID)){
@@ -46,8 +63,28 @@ public class StudentList {
       }
       return false;
   }
+  public boolean isCourseAlreadyTaken(String studentID, String semester, String courseName) {
+        for (Student student : studentLists) {
+            if (student.getStudentID().equalsIgnoreCase(studentID)
+                    && student.getSemester().equalsIgnoreCase(semester)
+                    && student.getCourseName().equalsIgnoreCase(courseName)) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    public boolean isValidCourse(String courseName, String[] validCourses) {
+    for (String course : validCourses) {
+        if (course.equalsIgnoreCase(courseName)) {
+            return true;
+        }
+    }
+    return false;
+}
   public ArrayList<Student> getStudentList(){
       return studentLists;
   }
+   
 }
 
