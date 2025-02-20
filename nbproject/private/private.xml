@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week4/PersonManagementSystem/Controller/PersonManagementSystem.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/Model/Course.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/Controller/CourseManagementSystem.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/View/CourseListView.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/Model/OnlineCourseList.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/Model/OnlineCourse.java</file>
+            <file>file:/E:/FPT_University/SPRING25/LAB211/ProjectLAB211/src/Week5/CourseManagement/Model/OfflineCourseList.java</file>
+        </group>
     </open-files>
 </project-private>

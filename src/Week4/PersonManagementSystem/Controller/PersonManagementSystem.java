@@ -28,11 +28,7 @@ public class PersonManagementSystem {
                 switch (n) {
                     case 1 -> pms.plv.teacherManagement();
                     case 2 -> pms.plv.studentManagement();
-                    case 3 -> pms.plv.personManagement();
-                    case 4 -> {
-                        System.out.println("Exiting the system.");
-                        System.exit(0);
-                    }
+                    case 3 -> pms.plv.personManagement();   
                     default -> System.out.println("Invalid option. Please try again.");
                 }
             }
