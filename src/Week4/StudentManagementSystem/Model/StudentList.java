@@ -1,13 +1,12 @@
 package Week4.StudentManagementSystem.Model;
 
-import Week4.StudentManagementSystem.View.DataInput;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class StudentList {
-   private Student student;
+   
   private ArrayList<Student> studentLists = new ArrayList<>();
   
   public void loadFromFile(String filename) {

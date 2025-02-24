@@ -1,0 +1,10 @@
+W001, John Doe, 25, 5000.0, New York, 15/02/2024
+W002, Alice Smith, 30, 5500.0, Los Angeles, 12/01/2024
+W003, Bob Johnson, 40, 6000.0, Chicago, 20/02/2024
+W004, Emily Davis, 22, 4800.0, Houston, 10/02/2024
+W005, Michael Brown, 35, 6200.0, Phoenix, 05/02/2024
+W006, Sarah Wilson, 28, 5300.0, Dallas, 18/01/2024
+W007, David Martinez, 45, 6500.0, San Diego, 02/02/2024
+W008, Laura Taylor, 50, 7000.0, San Francisco, 25/01/2024
+W009, James Anderson, 38, 5900.0, Miami, 08/02/2024
+W010, Linda Thomas, 26, 5200.0, Seattle, 12/02/2024
