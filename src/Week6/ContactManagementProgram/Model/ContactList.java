@@ -35,7 +35,7 @@ public class ContactList {
                 return;
             }
         }
-        System.out.println(" Contact not found.");
+        System.out.println("     Contact not found.");
     }
 
     public ArrayList<Contact> getContactList() { return contactList; }
